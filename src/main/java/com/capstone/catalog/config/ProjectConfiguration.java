@@ -11,5 +11,6 @@ public class ProjectConfiguration {
 	 ModelMapper getModelMapper()
 	{
 		return new ModelMapper();
+		
 	}
 }
